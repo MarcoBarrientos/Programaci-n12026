@@ -1,0 +1,14 @@
+C:\Users\Marco Barrientos\source\repos\Desafio 1 parte 2\Desafio 1 parte 2\bin\Debug\net10.0\Desafio 1 parte 2.exe
+C:\Users\Marco Barrientos\source\repos\Desafio 1 parte 2\Desafio 1 parte 2\bin\Debug\net10.0\Desafio 1 parte 2.deps.json
+C:\Users\Marco Barrientos\source\repos\Desafio 1 parte 2\Desafio 1 parte 2\bin\Debug\net10.0\Desafio 1 parte 2.runtimeconfig.json
+C:\Users\Marco Barrientos\source\repos\Desafio 1 parte 2\Desafio 1 parte 2\bin\Debug\net10.0\Desafio 1 parte 2.dll
+C:\Users\Marco Barrientos\source\repos\Desafio 1 parte 2\Desafio 1 parte 2\bin\Debug\net10.0\Desafio 1 parte 2.pdb
+C:\Users\Marco Barrientos\source\repos\Desafio 1 parte 2\Desafio 1 parte 2\obj\Debug\net10.0\Desafio 1 parte 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco Barrientos\source\repos\Desafio 1 parte 2\Desafio 1 parte 2\obj\Debug\net10.0\Desafio 1 parte 2.AssemblyInfoInputs.cache
+C:\Users\Marco Barrientos\source\repos\Desafio 1 parte 2\Desafio 1 parte 2\obj\Debug\net10.0\Desafio 1 parte 2.AssemblyInfo.cs
+C:\Users\Marco Barrientos\source\repos\Desafio 1 parte 2\Desafio 1 parte 2\obj\Debug\net10.0\Desafio 1 parte 2.csproj.CoreCompileInputs.cache
+C:\Users\Marco Barrientos\source\repos\Desafio 1 parte 2\Desafio 1 parte 2\obj\Debug\net10.0\Desafio 1 parte 2.dll
+C:\Users\Marco Barrientos\source\repos\Desafio 1 parte 2\Desafio 1 parte 2\obj\Debug\net10.0\refint\Desafio 1 parte 2.dll
+C:\Users\Marco Barrientos\source\repos\Desafio 1 parte 2\Desafio 1 parte 2\obj\Debug\net10.0\Desafio 1 parte 2.pdb
+C:\Users\Marco Barrientos\source\repos\Desafio 1 parte 2\Desafio 1 parte 2\obj\Debug\net10.0\Desafio 1 parte 2.genruntimeconfig.cache
+C:\Users\Marco Barrientos\source\repos\Desafio 1 parte 2\Desafio 1 parte 2\obj\Debug\net10.0\ref\Desafio 1 parte 2.dll
